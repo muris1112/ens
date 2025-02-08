@@ -49,7 +49,7 @@ export default function Home() {
           {renderButton()}
         </div>
         <div>
-          <img className={" w-[70%] h-[50%] ml-[20%]"} src="/learnweb3punks.png" />
+          <Image className={" w-[70%] h-[50%] ml-[20%]"} src="/learnweb3punks.png" width={1020} height={700} alt="LearnWeb3 Punks logo (?)"/>
         </div>
       </div>
 
