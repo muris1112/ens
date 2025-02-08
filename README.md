@@ -1,3 +1,7 @@
+# ENS
+
+App to connect and show registered Ethereum Name Service (ENS) of a wallet (from Sepolia testnet)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
