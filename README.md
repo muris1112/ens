@@ -2,9 +2,13 @@
 
 App to connect and show registered Ethereum Name Service (ENS) of a wallet (from Sepolia testnet)
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Requirements
+
+To see this app works as intended, you have to create a wallet or use existing wallet (using Metamask, Coinbase, etc.) with some Sepolia ETH and registered them to the [ENS](app.ens.domains).
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
