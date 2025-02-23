@@ -4,7 +4,7 @@ App to connect and show registered Ethereum Name Service (ENS) of a wallet (from
 
 ## Requirements
 
-To see this app works as intended, you have to create a wallet or use existing wallet (using Metamask, Coinbase, etc.) with some Sepolia ETH and registered them to the [ENS](app.ens.domains).
+To see this app works as intended, you have to create a wallet or use existing wallet (using Metamask, Coinbase, etc.) with some Sepolia ETH and registered them to the ENS.
 
 ## Getting Started
 
